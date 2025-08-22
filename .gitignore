@@ -1,0 +1,12 @@
+# Ignore data output folders
+IC3_data/
+IC3_data_v1/
+
+#  Python cache files
+__pycache__/
+
+# PyCharm specific folders
+.idea/
+
+# Virtual environment
+.venv/

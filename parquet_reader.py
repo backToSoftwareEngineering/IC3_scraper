@@ -1,0 +1,4 @@
+import pandas as pd
+
+df = pd.read_parquet('C:/Users/Zygimantus/data_engineering/IC3_scraper/IC3_data/year=2016/state=Alabama/ic3__crime_type_by_subject_count.parquet')
+print(df.head())
